@@ -1,0 +1,254 @@
+2023-08-28 20:23:15,306 - ~~~~~~ Instance: R111.txt ~~~~~
+2023-08-28 20:23:15,306 - Starting capacity check for route 0
+2023-08-28 20:23:15,307 - Capacity check for route 0 --> OK
+2023-08-28 20:23:15,307 - Starting capacity check for route 1
+2023-08-28 20:23:15,307 - Capacity check for route 1 --> OK
+2023-08-28 20:23:15,307 - Starting capacity check for route 2
+2023-08-28 20:23:15,307 - Capacity check for route 2 --> OK
+2023-08-28 20:23:15,307 - Starting capacity check for route 3
+2023-08-28 20:23:15,307 - Capacity check for route 3 --> OK
+2023-08-28 20:23:15,307 - Starting capacity check for route 4
+2023-08-28 20:23:15,308 - Capacity check for route 4 --> OK
+2023-08-28 20:23:15,308 - Starting capacity check for route 5
+2023-08-28 20:23:15,308 - Capacity check for route 5 --> OK
+2023-08-28 20:23:15,308 - Starting capacity check for route 6
+2023-08-28 20:23:15,308 - Capacity check for route 6 --> OK
+2023-08-28 20:23:15,308 - Starting capacity check for route 7
+2023-08-28 20:23:15,308 - Capacity check for route 7 --> OK
+2023-08-28 20:23:15,308 - Starting capacity check for route 8
+2023-08-28 20:23:15,308 - Capacity check for route 8 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 9
+2023-08-28 20:23:15,309 - Capacity check for route 9 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 10
+2023-08-28 20:23:15,309 - Capacity check for route 10 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 11
+2023-08-28 20:23:15,309 - Capacity check for route 11 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 12
+2023-08-28 20:23:15,309 - Capacity check for route 12 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 13
+2023-08-28 20:23:15,309 - Capacity check for route 13 --> OK
+2023-08-28 20:23:15,309 - Starting capacity check for route 14
+2023-08-28 20:23:15,309 - Capacity check for route 14 --> OK
+2023-08-28 20:23:15,310 - Starting capacity check for route 15
+2023-08-28 20:23:15,310 - Capacity check for route 15 --> OK
+2023-08-28 20:23:15,310 - Starting capacity check for route 16
+2023-08-28 20:23:15,310 - Capacity check for route 16 --> OK
+2023-08-28 20:23:15,310 - Starting capacity check for route 17
+2023-08-28 20:23:15,310 - Capacity check for route 17 --> OK
+2023-08-28 20:23:15,310 - Starting capacity check for route 18
+2023-08-28 20:23:15,310 - Capacity check for route 18 --> OK
+2023-08-28 20:23:15,311 - Starting capacity check for route 19
+2023-08-28 20:23:15,311 - Capacity check for route 19 --> OK
+2023-08-28 20:23:15,311 - Starting capacity check for route 20
+2023-08-28 20:23:15,311 - Capacity check for route 20 --> OK
+2023-08-28 20:23:15,311 - Starting capacity check for route 21
+2023-08-28 20:23:15,311 - Capacity check for route 21 --> OK
+2023-08-28 20:23:15,311 - Starting capacity check for route 22
+2023-08-28 20:23:15,311 - Capacity check for route 22 --> OK
+2023-08-28 20:23:15,311 - Starting capacity check for route 23
+2023-08-28 20:23:15,312 - Capacity check for route 23 --> OK
+2023-08-28 20:23:15,312 - Starting capacity check for route 24
+2023-08-28 20:23:15,312 - Capacity check for route 24 --> OK
+2023-08-28 20:23:15,312 - Starting time check for route 0
+2023-08-28 20:23:15,313 - Time of route 0 --> OK
+2023-08-28 20:23:15,313 - Starting time check for route 1
+2023-08-28 20:23:15,313 - Time of route 1 --> OK
+2023-08-28 20:23:15,313 - Starting time check for route 2
+2023-08-28 20:23:15,313 - Time of route 2 --> OK
+2023-08-28 20:23:15,313 - Starting time check for route 3
+2023-08-28 20:23:15,313 - Time of route 3 --> OK
+2023-08-28 20:23:15,313 - Starting time check for route 4
+2023-08-28 20:23:15,313 - Time of route 4 --> OK
+2023-08-28 20:23:15,314 - Starting time check for route 5
+2023-08-28 20:23:15,314 - Time of route 5 --> OK
+2023-08-28 20:23:15,314 - Starting time check for route 6
+2023-08-28 20:23:15,314 - Time of route 6 --> OK
+2023-08-28 20:23:15,314 - Starting time check for route 7
+2023-08-28 20:23:15,314 - Time of route 7 --> OK
+2023-08-28 20:23:15,314 - Starting time check for route 8
+2023-08-28 20:23:15,314 - Time of route 8 --> OK
+2023-08-28 20:23:15,314 - Starting time check for route 9
+2023-08-28 20:23:15,314 - Time of route 9 --> OK
+2023-08-28 20:23:15,315 - Starting time check for route 10
+2023-08-28 20:23:15,315 - Time of route 10 --> OK
+2023-08-28 20:23:15,315 - Starting time check for route 11
+2023-08-28 20:23:15,315 - Time of route 11 --> OK
+2023-08-28 20:23:15,315 - Starting time check for route 12
+2023-08-28 20:23:15,315 - Time of route 12 --> OK
+2023-08-28 20:23:15,315 - Starting time check for route 13
+2023-08-28 20:23:15,315 - Time of route 13 --> OK
+2023-08-28 20:23:15,316 - Starting time check for route 14
+2023-08-28 20:23:15,316 - Time of route 14 --> OK
+2023-08-28 20:23:15,316 - Starting time check for route 15
+2023-08-28 20:23:15,316 - Time of route 15 --> OK
+2023-08-28 20:23:15,316 - Starting time check for route 16
+2023-08-28 20:23:15,316 - Time of route 16 --> OK
+2023-08-28 20:23:15,316 - Starting time check for route 17
+2023-08-28 20:23:15,316 - Time of route 17 --> OK
+2023-08-28 20:23:15,316 - Starting time check for route 18
+2023-08-28 20:23:15,316 - Time of route 18 --> OK
+2023-08-28 20:23:15,317 - Starting time check for route 19
+2023-08-28 20:23:15,317 - Time of route 19 --> OK
+2023-08-28 20:23:15,317 - Starting time check for route 20
+2023-08-28 20:23:15,317 - Time of route 20 --> OK
+2023-08-28 20:23:15,317 - Starting time check for route 21
+2023-08-28 20:23:15,317 - Time of route 21 --> OK
+2023-08-28 20:23:15,317 - Starting time check for route 22
+2023-08-28 20:23:15,317 - Time of route 22 --> OK
+2023-08-28 20:23:15,317 - Starting time check for route 23
+2023-08-28 20:23:15,318 - Time of route 23 --> OK
+2023-08-28 20:23:15,318 - Starting time check for route 24
+2023-08-28 20:23:15,318 - Time of route 24 --> OK
+2023-08-28 20:23:15,318 - Starting time window checks for route 0
+2023-08-28 20:23:15,318 - Time window checks for route 0 met --> OK
+2023-08-28 20:23:15,318 - Starting time window checks for route 1
+2023-08-28 20:23:15,318 - Time window checks for route 1 met --> OK
+2023-08-28 20:23:15,318 - Starting time window checks for route 2
+2023-08-28 20:23:15,318 - Time window checks for route 2 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 3
+2023-08-28 20:23:15,319 - Time window checks for route 3 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 4
+2023-08-28 20:23:15,319 - Time window checks for route 4 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 5
+2023-08-28 20:23:15,319 - Time window checks for route 5 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 6
+2023-08-28 20:23:15,319 - Time window checks for route 6 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 7
+2023-08-28 20:23:15,319 - Time window checks for route 7 met --> OK
+2023-08-28 20:23:15,319 - Starting time window checks for route 8
+2023-08-28 20:23:15,319 - Time window checks for route 8 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 9
+2023-08-28 20:23:15,320 - Time window checks for route 9 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 10
+2023-08-28 20:23:15,320 - Time window checks for route 10 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 11
+2023-08-28 20:23:15,320 - Time window checks for route 11 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 12
+2023-08-28 20:23:15,320 - Time window checks for route 12 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 13
+2023-08-28 20:23:15,320 - Time window checks for route 13 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 14
+2023-08-28 20:23:15,320 - Time window checks for route 14 met --> OK
+2023-08-28 20:23:15,320 - Starting time window checks for route 15
+2023-08-28 20:23:15,321 - Time window checks for route 15 met --> OK
+2023-08-28 20:23:15,321 - Starting time window checks for route 16
+2023-08-28 20:23:15,321 - 	Time window of client 15 met --> OK 
+2023-08-28 20:23:15,321 - 	Time window of client 11 met --> OK 
+2023-08-28 20:23:15,321 - 	Time window of client 9 met --> OK 
+2023-08-28 20:23:15,321 - 	Time window of client 8 met --> OK 
+2023-08-28 20:23:15,321 - Time window checks for route 16 met --> OK
+2023-08-28 20:23:15,321 - Starting time window checks for route 17
+2023-08-28 20:23:15,321 - 	Time window of client 33 met --> OK 
+2023-08-28 20:23:15,321 - 	Time window of client 30 met --> OK 
+2023-08-28 20:23:15,321 - 	Time window of client 27 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 23 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 22 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 18 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 10 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 6 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 3 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 4 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 2 met --> OK 
+2023-08-28 20:23:15,322 - 	Time window of client 1 met --> OK 
+2023-08-28 20:23:15,322 - Time window checks for route 17 met --> OK
+2023-08-28 20:23:15,322 - Starting time window checks for route 18
+2023-08-28 20:23:15,322 - 	Time window of client 45 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 44 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 42 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 40 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 39 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 38 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 36 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 28 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 19 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 16 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 13 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 12 met --> OK 
+2023-08-28 20:23:15,323 - 	Time window of client 7 met --> OK 
+2023-08-28 20:23:15,323 - Time window checks for route 18 met --> OK
+2023-08-28 20:23:15,323 - Starting time window checks for route 19
+2023-08-28 20:23:15,324 - 	Time window of client 62 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 53 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 49 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 41 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 31 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 29 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 26 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 24 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 25 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 21 met --> OK 
+2023-08-28 20:23:15,324 - 	Time window of client 20 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 14 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 5 met --> OK 
+2023-08-28 20:23:15,325 - Time window checks for route 19 met --> OK
+2023-08-28 20:23:15,325 - Starting time window checks for route 20
+2023-08-28 20:23:15,325 - 	Time window of client 69 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 67 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 65 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 64 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 61 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 51 met --> OK 
+2023-08-28 20:23:15,325 - 	Time window of client 55 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 48 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 47 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 43 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 35 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 34 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 32 met --> OK 
+2023-08-28 20:23:15,326 - Time window checks for route 20 met --> OK
+2023-08-28 20:23:15,326 - Starting time window checks for route 21
+2023-08-28 20:23:15,326 - 	Time window of client 76 met --> OK 
+2023-08-28 20:23:15,326 - 	Time window of client 73 met --> OK 
+2023-08-28 20:23:15,327 - 	Time window of client 71 met --> OK 
+2023-08-28 20:23:15,327 - 	Time window of client 68 met --> OK 
+2023-08-28 20:23:15,327 - 	Time window of client 66 met --> OK 
+2023-08-28 20:23:15,327 - 	Time window of client 59 met --> OK 
+2023-08-28 20:23:15,328 - 	Time window of client 57 met --> OK 
+2023-08-28 20:23:15,328 - 	Time window of client 56 met --> OK 
+2023-08-28 20:23:15,329 - 	Time window of client 54 met --> OK 
+2023-08-28 20:23:15,329 - 	Time window of client 52 met --> OK 
+2023-08-28 20:23:15,329 - 	Time window of client 50 met --> OK 
+2023-08-28 20:23:15,329 - 	Time window of client 37 met --> OK 
+2023-08-28 20:23:15,330 - Time window checks for route 21 met --> OK
+2023-08-28 20:23:15,330 - Starting time window checks for route 22
+2023-08-28 20:23:15,330 - 	Time window of client 92 met --> OK 
+2023-08-28 20:23:15,330 - 	Time window of client 88 met --> OK 
+2023-08-28 20:23:15,330 - 	Time window of client 86 met --> OK 
+2023-08-28 20:23:15,330 - 	Time window of client 81 met --> OK 
+2023-08-28 20:23:15,330 - 	Time window of client 87 met --> OK 
+2023-08-28 20:23:15,330 - 	Time window of client 84 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 79 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 78 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 75 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 74 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 72 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 70 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 63 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 46 met --> OK 
+2023-08-28 20:23:15,331 - 	Time window of client 17 met --> OK 
+2023-08-28 20:23:15,331 - Time window checks for route 22 met --> OK
+2023-08-28 20:23:15,332 - Starting time window checks for route 23
+2023-08-28 20:23:15,332 - 	Time window of client 99 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 94 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 91 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 93 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 90 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 85 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 83 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 82 met --> OK 
+2023-08-28 20:23:15,332 - 	Time window of client 80 met --> OK 
+2023-08-28 20:23:15,333 - 	Time window of client 77 met --> OK 
+2023-08-28 20:23:15,333 - 	Time window of client 60 met --> OK 
+2023-08-28 20:23:15,333 - 	Time window of client 58 met --> OK 
+2023-08-28 20:23:15,334 - Time window checks for route 23 met --> OK
+2023-08-28 20:23:15,334 - Starting time window checks for route 24
+2023-08-28 20:23:15,334 - 	Time window of client 100 met --> OK 
+2023-08-28 20:23:15,334 - 	Time window of client 98 met --> OK 
+2023-08-28 20:23:15,334 - 	Time window of client 97 met --> OK 
+2023-08-28 20:23:15,334 - 	Time window of client 96 met --> OK 
+2023-08-28 20:23:15,334 - 	Time window of client 95 met --> OK 
+2023-08-28 20:23:15,334 - 	Time window of client 89 met --> OK 
+2023-08-28 20:23:15,334 - Time window checks for route 24 met --> OK
+2023-08-28 20:23:15,335 - ~~ Cost of solution: 15531
+2023-08-28 20:23:15,335 - 
+
